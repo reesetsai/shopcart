@@ -1,0 +1,21 @@
+.cute{
+    height: 600px;
+}
+.al{
+	display: table;
+  	margin: 0 auto;
+}
+.title{
+
+}
+.title img{
+	width: 100%;
+	float: both;
+}
+.footer{
+	  text-align: center;
+      height: 150px;
+      padding: 50px;
+}
+
+

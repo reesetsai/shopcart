@@ -1,0 +1,33 @@
+#carouselpic {
+height:300px;
+width:400px;
+}
+@media only screen and (min-width: 481px) and (max-width:768px) {
+  	.navbar navbar-inverse{
+		float:none;
+		width:100%;
+		height:auto;
+	}
+ 	.row .h3{
+		text-align: center;
+		width:100%;
+		display: block;
+		clear:both;
+	}
+ 	.modal-body{
+		margin: auto;
+	}
+	
+}
+.footer{
+	  text-align: center;
+      height: 150px;
+      padding: 50px;
+}
+.down{
+	clear: both;
+}
+.cow{
+	width:300px;
+	height:300px;
+}
